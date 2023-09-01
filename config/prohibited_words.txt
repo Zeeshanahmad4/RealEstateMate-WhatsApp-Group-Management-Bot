@@ -1,1 +1,10 @@
-# List of prohibited words 
+spam
+off-topic
+irrelevant
+fake
+fraud
+scam
+advertisement
+promo
+unverified
+offensive
