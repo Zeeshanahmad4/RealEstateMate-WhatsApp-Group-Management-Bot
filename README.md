@@ -31,14 +31,14 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Project Overview](#project-overview-📖)
-* [Features ✨](#features-✨)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-
+- [Project Overview](#project-overview-)
+- [Features](#features-)
+  - [Future Features (To-Do)](#-future-features-to-do)
+- [Requirements](#requirements-)
+- [Usage Examples](#usage-examples-)
+  - [Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [Troubleshooting Tips](#troubleshooting-tips-)
+- [Contribution Guidelines](#contribution-guidelines-)
 
 ## Project Overview 📖
 
