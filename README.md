@@ -12,9 +12,9 @@
   </a>
   <span>┃</span>
   
-  <a href="https://discord.com/users/Zee#0291">
-    <img alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-    <code>Zee#0291</code>
+  <a href="https://discord.com">
+    <img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+    <code>zee#2655</code>
   </a>
   <span>┃</span>
   
